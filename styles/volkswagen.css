@@ -1,3 +1,9 @@
-main {
-  background-color: rgb(21, 21, 103);
+body {
+  background-color: rgb(52, 52, 100);
+  color: whitesmoke;
+}
+
+a {
+  color: white;
+  text-decoration: none;
 }
